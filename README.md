@@ -16,7 +16,7 @@
 ## 🏆Awards
 * AWS 루키 챔피언십 Elasic상 수상
 * 교내 캡스톤 경진대회 공과대학 부문 대상
-* AWS와 함께하는 빅데이터 경진대회 TOP4 총장상 수상
+* AWS와 함께하는 빅데이터 경진대회 TOP4 총장상
 * 임팩트 IT서비스 공모전 우수상 수상
 
 ## 🔨Tech Stacks
@@ -25,7 +25,13 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=HTML5&logoColor=white" />
     <br>
+    <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/AwsLambda-FF9900?style=flat-square&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=HTML5&logoColor=white" />
 </div><br>
 </div>
 
