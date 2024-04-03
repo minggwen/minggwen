@@ -5,7 +5,7 @@
 <br/>
 
 <h2>🎨Activities</h2>
-<div style = "display:flex; flex-direction:col; gap : 1px"></div>
+<div style = "display:flex; flex-direction:col; gap : 1px">
 <h3> 2023</h3>
 <p>- 멋쟁이사자처럼 11기 프론트엔드부</p>
 <p>- 현대자동차 H-점프스쿨 10기</p>
@@ -14,6 +14,7 @@
 <p>- 멋쟁이사자처럼 10기 기획디자인부</p>
 <p>- ICT멘토링 서포터즈 JOB파고 3기</p>
 <p>- MSW 메이플스토리월드 해커톤</p>
+</div>
 <br/>
 
 <h2>🏆Awards</h2>
