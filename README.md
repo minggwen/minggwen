@@ -5,10 +5,10 @@
 * PM, UIUX 디자이너로 프로젝트에 참여한 경험이 있어 기획자, 디자이너와 원활한 소통이 가능합니다.
 * 편의성과 접근성을 고려한 서비스 개발이 가능합니다.
 
-<h2>📖Education</h2>
-<p>- SSAFY(2024)</p>
-<p>- SangMyung University(2022~2023)</p>
-<p>- Seoul Institue of Arts(2018~2021)</p>
+### 📖Education
+* SSAFY(2024)
+* SangMyung University(2022~2023)
+* Seoul Institue of Arts(2018~2021)
 <br/>
 
 <h2>🎨Activities</h2>
