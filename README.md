@@ -24,7 +24,7 @@
 <p>- AWS와 함께하는 빅데이터 경진대회 TOP4 총장상</p>
 <p>- 임팩트 IT서비스 공모전 우수상 수상</p>
 <br/>
-
+-->
 <h2>🔨Tech Stacks</h2>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
@@ -41,7 +41,7 @@
 </div><br>
 </div>
 <br/>
--->
+
 <div align="left">
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minggwen&exclude_repo=minggwen.github.io&layout=compact&theme=transparent" height="170px"/>
