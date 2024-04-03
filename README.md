@@ -21,7 +21,7 @@
 
 ## 🔨Tech Stacks
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Java&logoColor=yellow"> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
     
     <br>
 </div><br>
