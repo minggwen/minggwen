@@ -1,4 +1,4 @@
-
+<!--
 <h2>📖Education</h2>
 <p>- SSAFY(2024)</p>
 <p>- SangMyung University(2022~2023)</p>
@@ -41,7 +41,7 @@
 </div><br>
 </div>
 <br/>
-
+-->
 <div align="left">
   <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minggwen&exclude_repo=minggwen.github.io&layout=compact&theme=transparent" height="170px"/>
