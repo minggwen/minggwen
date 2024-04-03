@@ -5,7 +5,7 @@
 <br/>
 
 <h2>🎨Activities</h2>
-<div style = "display:flex; flex-direction:col; gap : 2px"></div>
+<div style = "display:flex; flex-direction:col; gap : 1px"></div>
 <h3> 2023</h3>
 <p>- 멋쟁이사자처럼 11기 프론트엔드부</p>
 <p>- 현대자동차 H-점프스쿨 10기</p>
