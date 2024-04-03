@@ -26,7 +26,7 @@
 <br/>
 -->
 <div align="center">
-<a href = "https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144?pvs=4"><h3>Portfolio</h3></a>
+<a href = "https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144?pvs=4">Portfolio</a>
 
 <br/>
 </div>
