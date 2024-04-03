@@ -25,11 +25,9 @@
 <p>- 임팩트 IT서비스 공모전 우수상 수상</p>
 <br/>
 -->
-<div align="center">
-<a href = "https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144?pvs=4">Portfolio</a>
+[Portfolio](https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144)
 
-<br/>
-</div>
+
 <div align="left">
 <h2>🔨Tech Stacks</h2>
 <div style="display:flex; flex-direction:row;">
@@ -57,4 +55,4 @@
   </a>
 </div>
 
-[Portfolio](https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144)
+
