@@ -3,8 +3,9 @@
 <p>- SangMyung University(2022~2023)</p>
 <p>- Seoul Institue of Arts(2018~2021)</p>
 <br/>
-## 🎨Activities
-### 2023
+
+<h2>🎨Activities</h2>
+<h3>2023</h3>
 <p>- 멋쟁이사자처럼 11기 프론트엔드부</p>
 <p>- 현대자동차 H-점프스쿨 10기</p>
 <p>- 숙명여대 STREAMLIT 해커톤</p>
