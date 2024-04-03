@@ -27,7 +27,7 @@
 -->
 <div align="center">
 <!-- <a href = "https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144?pvs=4" style = "text-decoration:none;"><h3>Portfolio</h3></a>-->
-[Portfolio](https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144)
+
 <br/>
 </div>
 <div align="left">
@@ -56,3 +56,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=minggwen&theme=transparent&show_icons=true" height="170px"/>
   </a>
 </div>
+
+[Portfolio](https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144)
