@@ -26,7 +26,8 @@
 <br/>
 -->
 <h2>다재다능한 개발자 신민경 입니다!</h2>
-<a href = "https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144?pvs=4">Portfolio</a>
+<a href = "https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144?pvs=4" style = "text-decoration:none;">Portfolio</a>
+<br/>
 <h2>🔨Tech Stacks</h2>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
