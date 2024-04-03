@@ -1,15 +1,13 @@
 ## 📖Education
 <p>- SSAFY(2024)</p>
-<p></p>
-
-- SangMyung University(2022~2023)
-- Seoul Institue of Arts(2018~2021)
+<p>- SangMyung University(2022~2023)</p>
+<p>- Seoul Institue of Arts(2018~2021)</p>
 <br/>
 ## 🎨Activities
 ### 2023
- * 멋쟁이사자처럼 11기 프론트엔드부
- * 현대자동차 H-점프스쿨 10기
- * 숙명여대 STREAMLIT 해커톤
+<p>- 멋쟁이사자처럼 11기 프론트엔드부</p>
+<p>- 현대자동차 H-점프스쿨 10기</p>
+<p>- 숙명여대 STREAMLIT 해커톤</p>
 ### 2022
 * 멋쟁이사자처럼 10기 기획디자인부
 * ICT멘토링 서포터즈 JOB파고 3기
