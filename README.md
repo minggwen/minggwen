@@ -28,8 +28,6 @@
     <br>
 </div><br>
 </div>
-출처: https://easyhomputer.tistory.com/22 [6_oHji:티스토리]
-
 
 <div align="left">
   <a href="s">
