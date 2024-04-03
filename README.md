@@ -1,4 +1,5 @@
-### Hi there 👋
+## Education
+- 상명대학교
 
 <div align="center">
 <a href="s">
