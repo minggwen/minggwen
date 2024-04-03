@@ -40,9 +40,9 @@
 
 <div align="left">
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minggwen&exclude_repo=minggwen.github.io&layout=compact&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minggwen&exclude_repo=minggwen.github.io&layout=compact&theme=transparent" width="300px"/>
   </a>
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=minggwen&theme=transparent&show_icons=true" width=42%/>
+    <img src="https://github-readme-stats.vercel.app/api?username=minggwen&theme=transparent&show_icons=true" width="300px"/>
   </a>
 </div>
