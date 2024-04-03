@@ -1,5 +1,7 @@
 ## 📖Education
-- SSAFY (2024~)
+<p>- SSAFY(2024)</p>
+<p></p>
+
 - SangMyung University(2022~2023)
 - Seoul Institue of Arts(2018~2021)
 <br/>
