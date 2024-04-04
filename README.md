@@ -3,7 +3,7 @@
 ### 🙋🏻‍♀️어느 곳에서도 빠르게 적응하고 눈에 띄는 성장을 보여주는 개발자 신민경 입니다 
 * 새로운 기술을 배우는 걸 좋아해 배울 수 있는 환경에 늘 도전합니다.
 * PM, UIUX 디자이너로 프로젝트에 참여한 경험이 있어 기획자, 디자이너와 원활한 소통이 가능합니다.
-* 편의성과 접근성을 고려한 서비스 개발이 가능합니다.
+* 늘 개발하기 앞서 사용자의 편의성과 접근성을 고려합니다.
 
 <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minggwen&exclude_repo=minggwen.github.io&layout=compact&theme=transparent" height="170px"/>
@@ -50,6 +50,17 @@
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
     <img src="https://img.shields.io/badge/AwsLambda-FF9900?style=flat-square&logo=AwsLambda&logoColor=white" />
     <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white" />
+    <br>
+     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=ffdd54" />
+     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+     <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+     <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+    <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=black" />
 </div><br>
 </div>
 <br/>
