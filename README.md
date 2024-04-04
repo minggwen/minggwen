@@ -11,6 +11,7 @@
 <a href="s">
     <img src="https://github-readme-stats.vercel.app/api?username=minggwen&theme=transparent&show_icons=true" height="170px"/>
 </a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsalsrud252)](https://solved.ac/tlsalsrud252/)
 
 ### 📖Education
 * SSAFY(2024)
