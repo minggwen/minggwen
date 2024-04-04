@@ -4,6 +4,8 @@
 * 새로운 기술을 배우는 걸 좋아해 배울 수 있는 환경에 늘 도전합니다.
 * PM, UIUX 디자이너로 프로젝트에 참여한 경험이 있어 기획자, 디자이너와 원활한 소통이 가능합니다.
 * 늘 개발하기 앞서 사용자의 편의성과 접근성을 고려합니다.
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsalsrud252)](https://solved.ac/tlsalsrud252/)
 <!--
 <a href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minggwen&exclude_repo=minggwen.github.io&layout=compact&theme=transparent" height="170px"/>
@@ -13,7 +15,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=minggwen&theme=transparent&show_icons=true" height="170px"/>
 </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsalsrud252)](https://solved.ac/tlsalsrud252/)
 
 ### 📖Education
 * SSAFY(2024)
