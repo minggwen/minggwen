@@ -51,16 +51,16 @@
     <img src="https://img.shields.io/badge/AwsLambda-FF9900?style=flat-square&logo=AwsLambda&logoColor=white" />
     <img src="https://img.shields.io/badge/AmazonDynamoDB-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white" />
     <br>
-     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=ffdd54" />
-     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-     <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-     <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&&logo=R&logoColor=ffdd54" />
+     <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&e&logo=python&logoColor=ffdd54" />
+     <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&&logo=pandas&logoColor=white" />
+     <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat-square&&logo=numpy&logoColor=white" />
+     <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&&logo=Matplotlib&logoColor=white" />
     <br>
-    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-    <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=black" />
+    <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&&logo=notion&logoColor=black" />
+    <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&&logo=Slack&logoColor=black" />
 </div><br>
 </div>
 <br/>
