@@ -1,4 +1,4 @@
-## [Portfolio](https://gwenportfolio.notion.site/Shin-MinGyoung-7de5d8604be64b4992da8dab1b65a144)
+## [Portfolio]([https://gwenportfolio.notion.site/Shin-MinGyoung-bf1c9b43294a471386733835a9beccd9])
 
 ### 🙋🏻‍♀️어느 곳에서도 빠르게 적응하고 눈에 띄는 성장을 보여주는 개발자 신민경 입니다 
 * 새로운 기술을 배우는 걸 좋아해 배울 수 있는 환경에 늘 도전합니다.
