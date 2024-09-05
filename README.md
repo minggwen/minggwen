@@ -48,8 +48,7 @@
 
 <table>
   <tr>
-    <td><h3>👩‍💻 비교적 능숙한 사용이 가능해요</h3></td>
-    <td><h3>👩‍💻 공식 문서를 보고 구현이 가능해요</h3></td>
+    <td><p>👩‍💻 비교적 능숙한 사용이 가능해요</p></td>
   </tr>
   <tr>
     <td>
@@ -66,6 +65,11 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
       <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />
     </td>
+  </tr>
+  <tr>
+    <td><p>👩‍💻 공식 문서를 보고 구현이 가능해요</p></td>
+  </tr>
+  <tr>
     <td>
       <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
       <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -80,5 +84,4 @@
   </tr>
 </table>
 </div>
->
 
