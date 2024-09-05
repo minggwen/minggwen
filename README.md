@@ -48,9 +48,7 @@
 
 <table>
   <tr>
-    <td><p>👩‍💻 비교적 능숙한 사용이 가능해요</p></td>
-  </tr>
-  <tr>
+    <td><h3>👩‍💻 비교적 능숙한 구현이 가능해요</h3></td>
     <td>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
       <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white" />
@@ -67,9 +65,7 @@
     </td>
   </tr>
   <tr>
-    <td><p>👩‍💻 공식 문서를 보고 구현이 가능해요</p></td>
-  </tr>
-  <tr>
+    <td><h3>👩‍💻 공식 문서를 보고 구현이 가능해요</h3></td>
     <td>
       <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
       <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -84,4 +80,3 @@
   </tr>
 </table>
 </div>
-
