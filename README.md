@@ -58,6 +58,7 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&&logo=git&logoColor=white" />
     <br>
 </div><br>
 <h3>👩‍💻공식 문서를 보고 기능 구현이 가능해요</h3>
@@ -71,8 +72,6 @@
     <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white" />
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
     <img src="https://img.shields.io/badge/AwsLambda-FF9900?style=flat-square&logo=AwsLambda&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&&logo=git&logoColor=white" />
 </div><br>
 </div>
 <br/>
