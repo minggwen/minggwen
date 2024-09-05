@@ -46,30 +46,38 @@
 <div align="left">
 <h3>⚒️ Tech Stacks</h3>
 
-| 비교적 능숙한 구현이 가능해요 | |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /> | Vue.js |
-| <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white" /> | React |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> | JavaScript |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> | HTML5 |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> | CSS3 |
-| <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" /> | Figma |
-| <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> | Java |
-| <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" /> | Spring |
-| <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" /> | Spring Boot |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /> | MySQL |
-| <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" /> | Git |
-
-<h3>📖 공식 문서를 읽고 구현이 가능해요</h3>
-
-| 공식 문서를 보고 구현이 가능해요 | |
-| :--- | :--- |
-| <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" /> | Amazon EC2 |
-| <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> | Docker |
-| <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> | Jenkins |
-| <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white" /> | Redis |
-| <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white" /> | Elasticsearch |
-| <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white" /> | Kibana |
-| <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" /> | Streamlit |
-| <img src="https://img.shields.io/badge/AwsLambda-FF9900?style=flat-square&logo=AwsLambda&logoColor=white" /> | AWS Lambda |
+<table>
+  <tr>
+    <td><h3>👩‍💻 비교적 능숙한 사용이 가능해요</h3></td>
+    <td><h3>👩‍💻 공식 문서를 보고 기능 구현이 가능해요</h3></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+      <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+      <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/AwsLambda-FF9900?style=flat-square&logo=AwsLambda&logoColor=white" />
+    </td>
+  </tr>
+</table>
 </div>
+
