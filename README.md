@@ -44,9 +44,15 @@
 </table>
 </div>
 
-### 📈 Algorithm
+### 🏆Awards
+| Service | Description | Award |
+|:--:|:--:|:--:|
+| [MEET:Z](https://github.com/minggwen/MEET-Z) | 영통팬싸 자동화 플랫폼 | SSAFY 11기 공통프로젝트 우수상 |
+| [LOWLAW](https://github.com/minggwen/LOWLAW_WEB) | 임대차 법적 조언 플랫폼 | AWS Rookie Championship Elastic Award  
+캡스톤 경진대회 공과대학부문 대상  
+AWS와 함께하는 빅데이터 경진대회 TOP4|
+| [모이자](https://github.com/minggwen/moija) | 자립준비청년들을 위한 플랫폼 | 임팩트캠퍼스 IT 서비스 우수상 |
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsalsrud252)](https://solved.ac/tlsalsrud252/)
 
 ### 🎨Activities
 #### 2024
@@ -61,12 +67,8 @@
 * ICT멘토링 서포터즈 JOB파고 3기
 * MSW 메이플스토리월드 해커톤
 
-
-### 🏆Awards
-* SSAFY 공통프로젝트 우수상 수상
-* AWS 루키 챔피언십 Elasic상 수상
-* 임팩트 IT서비스 공모전 우수상 수상
-* 교내 캡스톤 경진대회 공과대학 부문 대상
-* AWS와 함께하는 빅데이터 경진대회 TOP4 총장상
-
 <br/>
+
+### 📈 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsalsrud252)](https://solved.ac/tlsalsrud252/)
