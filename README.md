@@ -5,44 +5,6 @@
 * PM, UIUX 디자이너로 프로젝트에 참여한 경험이 있어 기획자, 디자이너와 원활한 소통이 가능합니다.
 * 늘 개발하기 앞서 사용자의 편의성과 접근성을 고려합니다.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsalsrud252)](https://solved.ac/tlsalsrud252/)
-<!--
-<a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minggwen&exclude_repo=minggwen.github.io&layout=compact&theme=transparent" height="170px"/>
-</a>
--->
-<a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=minggwen&theme=transparent&show_icons=true" height="170px"/>
-</a>
-
-
-### 📖Education
-* SSAFY(2024)
-* SangMyung University(2022~2023)
-* Seoul Institue of Arts(2018~2021)
-
-  
-### 🎨Activities
-#### 2023
-* 멋쟁이사자처럼 11기 프론트엔드부
-* 현대자동차 H-점프스쿨 10기
-* 숙명여대 STREAMLIT 해커톤
-* 경희 캠퍼스타운 AWS 특강 수료
-#### 2022
-* 멋쟁이사자처럼 10기 기획디자인부
-* ICT멘토링 서포터즈 JOB파고 3기
-* MSW 메이플스토리월드 해커톤
-
-
-### 🏆Awards
-* SSAFY 공통프로젝트 우수상 수상
-* AWS 루키 챔피언십 Elasic상 수상
-* 임팩트 IT서비스 공모전 우수상 수상
-* 교내 캡스톤 경진대회 공과대학 부문 대상
-* AWS와 함께하는 빅데이터 경진대회 TOP4 총장상
-
-<br/>
-
 <div align="left">
 <h3>⚒️ Tech Stacks</h3>
 
@@ -80,3 +42,37 @@
   </tr>
 </table>
 </div>
+
+  
+### 🎨Activities
+#### 2024
+* SSAFY 자바전공반
+#### 2023
+* 멋쟁이사자처럼 11기 프론트엔드부
+* 현대자동차 H-점프스쿨 10기
+* 숙명여대 STREAMLIT 해커톤
+* 경희 캠퍼스타운 AWS 특강 수료
+#### 2022
+* 멋쟁이사자처럼 10기 기획디자인부
+* ICT멘토링 서포터즈 JOB파고 3기
+* MSW 메이플스토리월드 해커톤
+
+
+### 🏆Awards
+* SSAFY 공통프로젝트 우수상 수상
+* AWS 루키 챔피언십 Elasic상 수상
+* 임팩트 IT서비스 공모전 우수상 수상
+* 교내 캡스톤 경진대회 공과대학 부문 대상
+* AWS와 함께하는 빅데이터 경진대회 TOP4 총장상
+
+<br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsalsrud252)](https://solved.ac/tlsalsrud252/)
+<!--
+<a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minggwen&exclude_repo=minggwen.github.io&layout=compact&theme=transparent" height="170px"/>
+</a>
+-->
+<a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=minggwen&theme=transparent&show_icons=true" height="170px"/>
+</a>
