@@ -5,6 +5,10 @@
 * PM, UIUX 디자이너로 프로젝트에 참여한 경험이 있어 기획자, 디자이너와 원활한 소통이 가능합니다.
 * 늘 개발하기 앞서 사용자의 편의성과 접근성을 고려합니다.
 
+### 📈 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsalsrud252)](https://solved.ac/tlsalsrud252/)
+
 <div align="left">
 <h3>⚒️ Tech Stacks</h3>
 
@@ -66,8 +70,3 @@
 * AWS와 함께하는 빅데이터 경진대회 TOP4 총장상
 
 <br/>
-
-### 📈 Algorithm
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlsalsrud252)](https://solved.ac/tlsalsrud252/)
-<!--
