@@ -47,8 +47,8 @@
 ### 🏆Awards
 | Service | Description | Award |
 |:--:|:--:|:--:|
-| [E.D.I.T.H](https://github.com/minggwen/MEET-Z) | AI를 활용한 자동 코드 리뷰 및 포트폴리오 생성 서비스 | SSAFY 11기 자율프로젝트 최우수 (141개 팀 중 5위) |
-| [kkobukzip](https://github.com/minggwen/MEET-Z) | 희귀동물 1:1 거래를 위한 블록체인 서비스 | SSAFY 11기 특화프로젝트 우수상 |
+| [E.D.I.T.H](https://github.com/minggwen/E.D.I.T.H.git) | AI를 활용한 자동 코드 리뷰 및 포트폴리오 생성 서비스 | SSAFY 11기 자율프로젝트 최우수 (141개 팀 중 5위) |
+| [kkobukzip](https://github.com/minggwen/kkobukzip) | 희귀동물 1:1 거래를 위한 블록체인 서비스 | SSAFY 11기 특화프로젝트 우수상 |
 | [MEET:Z](https://github.com/minggwen/MEET-Z) | 영통팬싸 자동화 플랫폼 | SSAFY 11기 공통프로젝트 우수상 |
 | [LOWLAW](https://github.com/minggwen/LOWLAW_WEB) | 임대차 법적 조언 플랫폼 | AWS Rookie Championship Elastic Award <br/> 캡스톤 경진대회 공과대학부문 대상<br/>AWS와 함께하는 빅데이터 경진대회 TOP4|
 | [모이자](https://github.com/minggwen/moija) | 자립준비청년들을 위한 플랫폼 | 임팩트캠퍼스 IT 서비스 우수상 |
